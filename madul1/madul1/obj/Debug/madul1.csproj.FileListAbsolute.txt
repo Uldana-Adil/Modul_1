@@ -1,0 +1,7 @@
+C:\Users\laptop\source\repos\madul1\madul1\bin\Debug\madul1.exe.config
+C:\Users\laptop\source\repos\madul1\madul1\bin\Debug\madul1.exe
+C:\Users\laptop\source\repos\madul1\madul1\bin\Debug\madul1.pdb
+C:\Users\laptop\source\repos\madul1\madul1\obj\Debug\madul1.csproj.AssemblyReference.cache
+C:\Users\laptop\source\repos\madul1\madul1\obj\Debug\madul1.csproj.CoreCompileInputs.cache
+C:\Users\laptop\source\repos\madul1\madul1\obj\Debug\madul1.exe
+C:\Users\laptop\source\repos\madul1\madul1\obj\Debug\madul1.pdb
